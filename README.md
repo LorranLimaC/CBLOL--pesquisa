@@ -1,45 +1,41 @@
-README: Seu Busca-Times do CBLOL no Bolso!
-O que faz essa aplicação?
+🏆 Busca-Times do CBLOL
+O seu guia rápido e dinâmico sobre os times do cenário brasileiro de League of Legends, direto no seu navegador!
 
-Imagina que você é um super fã de League of Legends e quer saber tudo sobre seus times favoritos do CBLOL. Com essa ferramenta, você digita o nome de qualquer time e prontinho: a aplicação te mostra um monte de informações legais, como:
+🔍 Sobre a Aplicação
+Imagina que você é um super fã de League of Legends e quer saber tudo sobre os times do CBLOL. Com essa ferramenta, basta digitar o nome de qualquer equipe para ter acesso instantâneo a informações cruciais como:
 
-Histórico: Quais os principais feitos do time?
-Títulos: Quantos campeonatos já ganharam?
-Curiosidades: Coisas legais e divertidas sobre o time!
-Como usar?
+📜 Histórico: Quais os principais feitos e a trajetória da organização?
 
-É super simples! Basta digitar o nome do time que você quer procurar na caixinha e clicar no botão "Pesquisar". Aí é só se divertir lendo tudo sobre o seu time do coração!
+🥇 Títulos: Quantos campeonatos o time já levantou?
 
-Tecnologias usadas:
+💡 Curiosidades: Fatos divertidos e marcantes sobre a equipe!
 
-HTML: Para criar a estrutura da página.
-CSS: Para deixar tudo bonitinho e organizado.
-JavaScript: A mágica acontece aqui! É o JavaScript que busca as informações e mostra os resultados na tela.
-O que tem mais nessa aplicação?
+🚀 Funcionalidades
+🧠 Busca Inteligente: O sistema procura por palavras-chave no nome do time, histórico, títulos e curiosidades.
 
-Busca inteligente: Procura por palavras-chave no nome do time, histórico, títulos e outras informações.
-Resultados dinâmicos: A página se atualiza automaticamente a cada nova pesquisa.
-Design intuitivo: Fácil de usar, até para quem não entende muito de programação.
-Quer contribuir?
+⚡ Resultados Dinâmicos: A página se atualiza automaticamente na tela a cada nova pesquisa, sem necessidade de recarregar.
 
-Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à vontade para dar uma olhada no código e fazer um pull request! Toda ajuda é bem-vinda!
+🎨 Design Intuitivo: Interface limpa, responsiva e fácil de usar, feita sob medida para a comunidade gamer.
 
-Em resumo:
+🛠️ Tecnologias Utilizadas
+O projeto foi desenvolvido focado no ecossistema Front-End, utilizando as tecnologias fundamentais da web:
 
-Essa aplicação é perfeita para quem quer saber tudo sobre o CBLOL de um jeito fácil e divertido. Então, não perca tempo e comece a explorar o mundo dos eSports agora mesmo!
+HTML5: Estruturação semântica e acessibilidade da página.
 
-#CBLOL #LeagueOfLegends #Esports #Programação
+CSS3: Estilização, layout moderno e organização visual.
 
-[Inserir link para o repositório no GitHub]
+JavaScript (ES6): A lógica principal do projeto, responsável por filtrar os dados e renderizar os resultados dinamicamente.
 
-[Inserir GIF animado da aplicação funcionando]
+📸 Demonstração
+Exemplo da aplicação em funcionamento.
 
-Dica: Para deixar o README ainda mais legal, você pode adicionar um GIF animado mostrando a aplicação em funcionamento, além de links para os seus perfis nas redes sociais e para outros projetos.
+🎮 Como Usar
+Digite o nome do time (ou uma palavra-chave) na caixa de pesquisa.
 
-Observações:
+Clique no botão "Pesquisar".
 
-Personalize o README: Adapte o texto para a sua aplicação específica, usando uma linguagem que seja mais adequada para o seu público.
-Use emojis: Os emojis ajudam a deixar o texto mais divertido e fácil de ler.
-Adicione imagens e GIFs: As imagens e GIFs ajudam a visualizar melhor a aplicação e tornam o README mais atrativo.
-Seja claro e objetivo: Explique como a aplicação funciona de forma simples e direta.
-Com esse README, você vai atrair mais pessoas para o seu projeto e mostrar o seu trabalho para o mundo!
+Pronto! Os dados do seu time do coração aparecerão logo abaixo.
+🔗 Links Úteis cblol-pesquisa.vercel.app
+🐙 Repositório do Projeto: https://github.com/LorranLimaC/CBLOL--pesquisa
+
+💼 Meu LinkedIn: Lorran Lima
